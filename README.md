@@ -1,6 +1,6 @@
 ## Description
 
-《服务计算》作业四：用 Go 开发类似 [cloudgo](http://blog.csdn.net/pmlpml/article/details/78404838) 的 web 服务程序
+《服务计算》作业：用 Go 开发类似 [cloudgo](http://blog.csdn.net/pmlpml/article/details/78404838) 的 web 服务程序
 
 ## Setup
 
